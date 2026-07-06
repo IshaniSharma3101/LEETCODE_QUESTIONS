@@ -7,6 +7,7 @@
 | [0055-jump-game](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0860-lemonade-change) |
+| [0912-sort-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0912-sort-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -53,8 +54,33 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0455-assign-cookies) |
+| [0912-sort-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0055-jump-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
