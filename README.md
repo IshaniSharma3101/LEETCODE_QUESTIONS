@@ -92,4 +92,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0912-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
