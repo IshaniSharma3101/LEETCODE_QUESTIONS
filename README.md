@@ -63,6 +63,7 @@
 | [0455-assign-cookies](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0860-lemonade-change) |
+| [1323-maximum-69-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1323-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1710-maximum-units-on-a-truck) |
 ## Sorting
 |  |
@@ -107,6 +108,7 @@
 ## Math
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1323-maximum-69-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
