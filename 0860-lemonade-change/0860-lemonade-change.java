@@ -12,11 +12,14 @@ class Solution {
               ten++;}
         }
         else{
+            // ye phle kyu kikha h yhi yaha main thing h 
           if (ten >= 1 && five >= 1) {
     ten--;
     five--;
     twenty++;
 }
+
+// or ye else if m likha ye important h
 else if (five >= 3) {
     five -= 3;
     twenty++;
