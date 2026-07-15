@@ -13,3 +13,6 @@ class Solution {
     return ans;
 }
     }
+
+
+// for optimal learn euclidiean formula of GCD 
