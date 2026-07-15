@@ -4,7 +4,6 @@ class Solution {
         int index=0;
         for(int i=0; i <s.length();i++){
             if(s.charAt(i)=='(' || s.charAt(i)=='[' || s.charAt(i)=='{') arr[index++] = s.charAt(i); 
-
             else{
                 if(index==0) return false;
                 if((s.charAt(i)==')' && arr[index-1]!='(' ) ||(s.charAt(i)=='}' && arr[index-1]!='{' ) || (s.charAt(i)==']' && arr[index-1]!='[' ) ) return false;
