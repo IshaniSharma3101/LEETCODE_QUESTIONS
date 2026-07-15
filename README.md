@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0020-valid-parentheses) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
@@ -124,4 +125,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
