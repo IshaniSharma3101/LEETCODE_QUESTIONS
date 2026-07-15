@@ -10,6 +10,7 @@
 | [0435-non-overlapping-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0605-can-place-flowers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0912-sort-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0992-subarrays-with-k-different-integers) |
@@ -62,6 +63,7 @@
 | [0435-non-overlapping-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0605-can-place-flowers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0860-lemonade-change) |
 | [1323-maximum-69-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1323-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1710-maximum-units-on-a-truck) |
@@ -71,6 +73,7 @@
 | [0056-merge-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0646-maximum-length-of-pair-chain) |
 | [0912-sort-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1288-remove-covered-intervals) |
@@ -81,6 +84,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0646-maximum-length-of-pair-chain) |
 ## Divide and Conquer
 |  |
 | ------- |
