@@ -129,4 +129,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
