@@ -21,6 +21,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1710-maximum-units-on-a-truck](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1710-maximum-units-on-a-truck) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,12 +119,14 @@
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1323-maximum-69-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
 |  |
