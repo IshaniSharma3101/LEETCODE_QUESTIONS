@@ -15,6 +15,8 @@ public class Solution {
         ListNode fast = head;
         if(head == null || head.next == null) return false;
         while(fast != null && fast.next != null){
+
+            // while conditions or unka order dono matter krta h or dono ka dhyaan rkhna h hme bhot jada 
             slow= slow.next;
             fast = fast.next.next;
             if(slow == fast) return true;
