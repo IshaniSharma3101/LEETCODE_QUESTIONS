@@ -37,7 +37,8 @@ class Solution {
       ListNode temp1 = head;
       ListNode temp2 = newhead;
       while(temp2!=null){
-        if(temp1.val!=temp2.val) return false;
+        if(temp1.val!=temp2.val)// yaha val check krni h naki same pointer isly.val bhi likhege 
+         return false;
         temp1= temp1.next;
         temp2= temp2.next;
       }
