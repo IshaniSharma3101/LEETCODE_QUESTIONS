@@ -19,9 +19,11 @@ class Solution {
         if(size==1){
             return null;
         }
+        // temp mein vps head daalna bhulo mt 
         temp = head;
         int i =0;
         int n = size/2;
+        // while cnditions dhyan se smjhna h 
         while( i<=n-2){
             temp=temp.next;
             i++;
