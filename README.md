@@ -63,6 +63,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0646-maximum-length-of-pair-chain) |
@@ -102,6 +104,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -110,6 +113,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -147,6 +151,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0237-delete-node-in-a-linked-list) |
