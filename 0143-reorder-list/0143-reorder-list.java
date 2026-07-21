@@ -37,7 +37,7 @@ class Solution {
 
         ListNode righthead = prev;
         
-        while( righthead != null){
+        while(righthead != null){
             //alternate merge
            ListNode nextleft = head.next;
            head.next = righthead;
