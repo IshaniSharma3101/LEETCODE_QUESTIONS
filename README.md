@@ -101,6 +101,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1710-maximum-units-on-a-truck) |
 | [2706-buy-two-chocolates](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/2706-buy-two-chocolates) |
+| [3536-maximum-product-of-two-digits](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2652-sum-multiples](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/2652-sum-multiples) |
+| [3536-maximum-product-of-two-digits](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
