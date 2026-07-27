@@ -63,6 +63,7 @@
 | [0020-valid-parentheses](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0125-valid-palindrome) |
 | [0709-to-lower-case](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0709-to-lower-case) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
@@ -74,6 +75,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0143-reorder-list) |
