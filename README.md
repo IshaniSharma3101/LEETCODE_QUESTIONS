@@ -12,6 +12,7 @@
 | [0435-non-overlapping-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0912-sort-an-array) |
@@ -98,6 +99,7 @@
 | [0414-third-maximum-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0646-maximum-length-of-pair-chain) |
 | [0912-sort-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0948-bag-of-tokens) |
@@ -142,6 +144,7 @@
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1323-maximum-69-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1323-maximum-69-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
