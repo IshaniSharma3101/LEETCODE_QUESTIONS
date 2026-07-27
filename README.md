@@ -62,6 +62,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0058-length-of-last-word) |
 | [0709-to-lower-case](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0709-to-lower-case) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
