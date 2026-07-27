@@ -7,6 +7,7 @@
 | [0055-jump-game](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0435-non-overlapping-intervals) |
@@ -144,6 +145,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1323-maximum-69-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1323-maximum-69-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
