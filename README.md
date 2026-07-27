@@ -8,6 +8,7 @@
 | [0056-merge-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0057-insert-interval) |
 | [0217-contains-duplicate](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0605-can-place-flowers) |
@@ -94,6 +95,7 @@
 | [0056-merge-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0646-maximum-length-of-pair-chain) |
