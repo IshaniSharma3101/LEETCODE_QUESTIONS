@@ -13,6 +13,7 @@ class Solution {
 // }
 // return arr;
 for(int i= digits.length-1;i>=0;i--){
+    // ky upaar likha jayeg aky neeche bhot matter krta h 
       if(i==0 && digits[i]==9){
         int[] arr = new int[digits.length+1];
         arr[0]=1;
@@ -30,10 +31,6 @@ for(int i= digits.length-1;i>=0;i--){
      break;
 
     }
-
-  
-
-
 }
 
 return digits;
