@@ -53,6 +53,7 @@
 | [0141-linked-list-cycle](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
@@ -64,6 +65,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0709-to-lower-case) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
@@ -104,6 +106,7 @@
 | [0056-merge-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0455-assign-cookies) |
