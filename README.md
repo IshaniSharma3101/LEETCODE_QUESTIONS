@@ -9,6 +9,7 @@
 | [0057-insert-interval](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -32,6 +33,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -87,6 +89,7 @@
 | [0143-reorder-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
 | [0948-bag-of-tokens](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0948-bag-of-tokens) |
@@ -208,5 +211,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
