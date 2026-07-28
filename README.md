@@ -30,6 +30,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2706-buy-two-chocolates](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/2706-buy-two-chocolates) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
