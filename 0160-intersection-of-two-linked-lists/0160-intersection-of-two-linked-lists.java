@@ -32,6 +32,9 @@ public class Solution {
         temp1 = headA;
         temp2 = headB;
 
+
+
+// ye hmko dikaat aarhi h sbse jada ki while loop ky kitni baar chala krega linke dlist mein 
         if(size1>size2){
             int diff = size1-size2;
            
