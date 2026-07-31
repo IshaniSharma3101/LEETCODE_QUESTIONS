@@ -176,6 +176,7 @@
 | [1323-maximum-69-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1323-maximum-69-number) |
 | [1390-four-divisors](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1390-four-divisors) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1952-three-divisors](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2652-sum-multiples](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/2652-sum-multiples) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -186,6 +187,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
@@ -231,4 +233,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
