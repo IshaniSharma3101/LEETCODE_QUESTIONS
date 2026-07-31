@@ -57,6 +57,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
@@ -94,6 +95,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0455-assign-cookies) |
@@ -207,6 +209,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0237-delete-node-in-a-linked-list) |
