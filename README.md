@@ -25,6 +25,7 @@
 | [1200-minimum-absolute-difference](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
+| [1390-four-divisors](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1390-four-divisors) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1710-maximum-units-on-a-truck](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1710-maximum-units-on-a-truck) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -173,6 +174,7 @@
 | [0066-plus-one](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1323-maximum-69-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1323-maximum-69-number) |
+| [1390-four-divisors](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1390-four-divisors) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2652-sum-multiples](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/2652-sum-multiples) |
