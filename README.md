@@ -71,6 +71,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0125-valid-palindrome) |
@@ -140,6 +141,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0646-maximum-length-of-pair-chain) |
@@ -240,4 +242,8 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1952-three-divisors) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
