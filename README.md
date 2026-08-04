@@ -187,6 +187,7 @@
 | [0002-add-two-numbers](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1323-maximum-69-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1323-maximum-69-number) |
 | [1390-four-divisors](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1390-four-divisors) |
@@ -237,6 +238,7 @@
 | [0206-reverse-linked-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0326-power-of-three) |
 ## String Matching
 |  |
 | ------- |
