@@ -186,6 +186,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1323-maximum-69-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1323-maximum-69-number) |
 | [1390-four-divisors](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1390-four-divisors) |
@@ -234,6 +235,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
@@ -242,6 +244,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0389-find-the-difference) |
 ## Queue
