@@ -34,6 +34,7 @@
 | [2706-buy-two-chocolates](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/2706-buy-two-chocolates) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3731-find-missing-elements](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
+| [3731-find-missing-elements](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1710-maximum-units-on-a-truck) |
 | [2706-buy-two-chocolates](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/2706-buy-two-chocolates) |
 | [3536-maximum-product-of-two-digits](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
