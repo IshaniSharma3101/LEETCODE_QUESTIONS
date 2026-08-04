@@ -32,6 +32,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1710-maximum-units-on-a-truck) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2706-buy-two-chocolates](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/2706-buy-two-chocolates) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -70,6 +71,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3731-find-missing-elements](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -91,6 +93,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0992-subarrays-with-k-different-integers) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Two Pointers
 |  |
 | ------- |
