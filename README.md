@@ -13,6 +13,7 @@
 | [0287-find-the-duplicate-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0605-can-place-flowers) |
@@ -65,6 +66,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
@@ -130,6 +132,7 @@
 | [0389-find-the-difference](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0646-maximum-length-of-pair-chain) |
