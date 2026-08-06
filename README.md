@@ -9,6 +9,7 @@
 | [0056-merge-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0414-third-maximum-number) |
@@ -250,6 +251,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0342-power-of-four) |
@@ -267,4 +269,5 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
