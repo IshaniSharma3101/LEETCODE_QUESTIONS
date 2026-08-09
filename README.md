@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0056-merge-intervals) |
@@ -99,6 +100,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0125-valid-palindrome) |
@@ -130,6 +132,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0217-contains-duplicate) |
