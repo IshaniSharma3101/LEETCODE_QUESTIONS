@@ -276,4 +276,8 @@
 | [0039-combination-sum](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0090-subsets-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
