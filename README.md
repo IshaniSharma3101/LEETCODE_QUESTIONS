@@ -280,4 +280,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/0022-generate-parentheses) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/IshaniSharma3101/LEETCODE_QUESTIONS/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
